@@ -1,2 +1,1 @@
-#H2
-Data Structure Study.
+<H1>Data Structure Study.</H1>
